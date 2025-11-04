@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: CsinTest1Project
+  gitServerName: csinTest
+  gitUrl: https://github.com/ArtiKhareIBM
+  gitUsername: ArtiKhareIBM
+  gitBranch: main
