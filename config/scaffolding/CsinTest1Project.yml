@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/ArtiKhareIBM
   gitUsername: ArtiKhareIBM
   gitBranch: main
+- name: substractpackage
+  gitServerName: csinGit
+  gitUrl: https://gitlab.com/ArtiKhareGitlabnew
+  gitUsername: ArtiKhareGitlabnew
+  gitBranch: master
