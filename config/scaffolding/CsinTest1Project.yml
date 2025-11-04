@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/ArtiKhareIBM
   gitUsername: ArtiKhareIBM
   gitBranch: main
+- name: GithubPackageDebuglog
+  gitServerName: csinTest
+  gitUrl: https://github.com/ArtiKhareIBM
+  gitUsername: ArtiKhareIBM
+  gitBranch: main
